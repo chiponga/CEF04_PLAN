@@ -1,0 +1,46 @@
+*{
+    
+    
+    font-family: "Open Sans", sans-serif;
+    
+  }
+
+  .logo {
+   
+   margin-top: 24px;
+   margin-right: 300px;
+
+  }
+
+  .escola{
+    text-align:center;
+    LINE-HEIGHT:20px;
+    font-family: "Open Sans", sans-serif;
+     
+  }
+  .data{
+    
+   
+    margin-left: 635px;
+    margin-top: 17px;
+    
+  }
+  .titulo{
+    text-align:center;
+    margin-top:5px;
+    margin-left:300px;
+    font-size: 24px
+  }
+  .senhores{
+    text-align:left;
+  }
+
+  .itens{
+    /*font-family: "Courier New", Courier,monospace;*/
+    font-family: "Courier New", Courier,monospace;
+   
+  }
+
+  .responsavel{
+    margin-top: 18px;
+  }
