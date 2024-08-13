@@ -265,7 +265,7 @@ h1 {
 							</td> onkeypress='return SomenteNumero(event)'-->
 
 						<td>
-						<img src="https://cef4.com.br/0xasljkdfhsjkfhssdfsfsfasfewrqwr/<?php echo $rows_cursos['Codigo']; ?>.JPG" style="margin: 40px;margin-left:85px;margin-top:10px;text-aling:center" height="120px" width="100px"   onerror="this.onerror=null; this.src='/imagens/semFoto.png'">>
+						<img src="http://135.148.160.173/5s6d4f56sdf1s56a1f3s2f1s32af1s32df1s32df1ds561f/<?php echo $rows_cursos['Codigo']; ?>.JPG" style="margin: 40px;margin-left:85px;margin-top:10px;text-aling:center" height="120px" width="100px"   onerror="this.onerror=null; this.src='/imagens/semFoto.png'">>
 						</td>
 
 						<td style='vertical-align: middle;'>

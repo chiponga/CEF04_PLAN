@@ -70,7 +70,7 @@
       </div>
       <div class="modal-body">
 			
-      	<img id="img_modal" src="https://cef4.com.br/0xasljkdfhsjkfhssdfsfsfasfewrqwr/<?php echo $rows_cursos['Codigo']; ?>.JPG" height="80%"  width="90%"  onerror="this.onerror=null; this.src='/imagens/semFoto.png'">
+      	<img id="img_modal" src="http://135.148.160.173/5s6d4f56sdf1s56a1f3s2f1s32af1s32df1s32df1ds561f/<?php echo $rows_cursos['Codigo']; ?>.JPG" height="80%"  width="90%"  onerror="this.onerror=null; this.src='/imagens/semFoto.png'">
 				<h5 style="text-align: center; vertical-align: middle;margin-top: 20px"><span id="nomeModal">Nome</span></h5>
 				<h5 style="text-align: center; vertical-align: middle;margin-top: 20px"><span id="codigoModal">Código</span></h5>
       </div>
@@ -91,7 +91,7 @@
 						<?php while($rows_cursos = mysqli_fetch_assoc($resultado_cursos)){ ?>
 
 								
-									<img  onclick="pegarId(<?php echo $rows_cursos['Codigo']; ?>)"  class="img" data-toggle="modal" data-target="#exampleModal" id="<?php echo $rows_cursos['Aluno']; ?>" src="https://cef4.com.br/0xasljkdfhsjkfhssdfsfsfasfewrqwr/<?php echo $rows_cursos['Codigo']; ?>.JPG"height="140px" style="margin: 20px" width="120px" onerror="this.onerror=null; this.src='/imagens/semFoto.png'">
+									<img  onclick="pegarId(<?php echo $rows_cursos['Codigo']; ?>)"  class="img" data-toggle="modal" data-target="#exampleModal" id="<?php echo $rows_cursos['Aluno']; ?>" src="http://135.148.160.173/5s6d4f56sdf1s56a1f3s2f1s32af1s32df1s32df1ds561f/<?php echo $rows_cursos['Codigo']; ?>.JPG"height="140px" style="margin: 20px" width="120px" onerror="this.onerror=null; this.src='/imagens/semFoto.png'">
 							
 
 						<?php } ?>
@@ -154,7 +154,7 @@ function pegarId(codigo){
 /*	var foto = document.getElementById(id);*/
 
 
-$('#img_modal').attr('src','https://cef4.com.br/0xasljkdfhsjkfhssdfsfsfasfewrqwr/'+codigo+'.JPG')
+$('#img_modal').attr('src','http://135.148.160.173/5s6d4f56sdf1s56a1f3s2f1s32af1s32df1s32df1ds561f/'+codigo+'.JPG')
 
 
 	this.codigo = codigo;
