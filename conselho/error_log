@@ -1,0 +1,40 @@
+[29-Apr-2022 10:44:47 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/cef4co88/public_html/conselho/professor_conselho.php:135
+Stack trace:
+#0 /home3/cef4co88/public_html/conselho/professor_conselho.php(135): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home3/cef4co88/public_html/conselho/professor_conselho.php on line 135
+[29-Apr-2022 10:44:54 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/cef4co88/public_html/conselho/professor_conselho.php:135
+Stack trace:
+#0 /home3/cef4co88/public_html/conselho/professor_conselho.php(135): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home3/cef4co88/public_html/conselho/professor_conselho.php on line 135
+[29-Apr-2022 11:32:13 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/cef4co88/public_html/conselho/professor_conselho.php:135
+Stack trace:
+#0 /home3/cef4co88/public_html/conselho/professor_conselho.php(135): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home3/cef4co88/public_html/conselho/professor_conselho.php on line 135
+[29-Apr-2022 11:32:24 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/cef4co88/public_html/conselho/professor_conselho.php:135
+Stack trace:
+#0 /home3/cef4co88/public_html/conselho/professor_conselho.php(135): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home3/cef4co88/public_html/conselho/professor_conselho.php on line 135
+[29-Apr-2022 20:21:22 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/cef4co88/public_html/conselho/professor_conselho.php:135
+Stack trace:
+#0 /home3/cef4co88/public_html/conselho/professor_conselho.php(135): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home3/cef4co88/public_html/conselho/professor_conselho.php on line 135
+[29-Apr-2022 20:21:29 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/cef4co88/public_html/conselho/professor_conselho.php:135
+Stack trace:
+#0 /home3/cef4co88/public_html/conselho/professor_conselho.php(135): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home3/cef4co88/public_html/conselho/professor_conselho.php on line 135
+[29-Apr-2022 20:28:28 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/cef4co88/public_html/conselho/professor_conselho.php:135
+Stack trace:
+#0 /home3/cef4co88/public_html/conselho/professor_conselho.php(135): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home3/cef4co88/public_html/conselho/professor_conselho.php on line 135
+[29-Apr-2022 20:28:41 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/cef4co88/public_html/conselho/professor_conselho.php:135
+Stack trace:
+#0 /home3/cef4co88/public_html/conselho/professor_conselho.php(135): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home3/cef4co88/public_html/conselho/professor_conselho.php on line 135
