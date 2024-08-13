@@ -5,7 +5,7 @@ class db {
     public $host = '135.148.160.173';
     public $usuario = 'ADJNET';
     public $senha = 'Chi99839993';
-    public $nome = 'CEF04_PLAN';
+    public $nome = 'CEF04_SOBR';
     public $porta = 3306;
 
     // Função para conectar ao banco de dados
