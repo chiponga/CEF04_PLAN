@@ -95,7 +95,7 @@
                               
                               </td>
                               <td class="text-center">
-							  <img class="rounded-md intro-y" src="https://cef4.com.br/0xasljkdfhsjkfhssdfsfsfasfewrqwr/<?php echo $rows_cursos['Codigo'];?>.JPG" height="80px" width="80px" onerror="this.onerror=null; this.src='imagens/semFoto.png'">
+							  <img class="rounded-md intro-y" src="https://admbv.com.br/Fotos/<?php echo $rows_cursos['Codigo'];?>.JPG" height="80px" width="80px" onerror="this.onerror=null; this.src='imagens/semFoto.png'">
 
 							    </td>
                                 <td>
@@ -141,7 +141,7 @@
               
                             } 
                             ?>
-							<img src="https://cef4.com.br/0xasljkdfhsjkfhssdfsfsfasfewrqwr/<?php echo $codigo;?>.JPG" style="margin: 40px;margin-left:85px;margin-top:10px;text-aling:center" height="460px" width="400px" onerror="this.onerror=null; this.src='imagens/semFoto.png'">
+							<img src="https://admbv.com.br/Fotos/<?php echo $codigo;?>.JPG" style="margin: 40px;margin-left:85px;margin-top:10px;text-aling:center" height="460px" width="400px" onerror="this.onerror=null; this.src='imagens/semFoto.png'">
 
 
                             <?php
