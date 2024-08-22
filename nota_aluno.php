@@ -388,7 +388,7 @@ $stmt = $pdo-> prepare( "select * from notas WHERE Codigo = '$codigo'" );
                     <div class="flex flex-col lg:flex-row border-b border-gray-200 dark:border-dark-5 pb-5 -mx-5">
                         <div class="flex flex-1 px-5 items-center justify-center lg:justify-start">
                             <div class="w-20 h-20 sm:w-24 sm:h-24 flex-none lg:w-32 lg:h-32 image-fit relative">
-                                <img class="rounded-md intro-y" src="https://cef4.com.br/0xasljkdfhsjkfhssdfsfsfasfewrqwr/<?php echo $codigo;?>.JPG" onerror="this.onerror=null; this.src='imagens/semFoto.png'">
+                                <img class="rounded-md intro-y" src="https://admbv.com.br/Fotos/<?php echo $codigo;?>.JPG" onerror="this.onerror=null; this.src='imagens/semFoto.png'">
                             </div>
                             <div class="ml-5">
                                 <div style="font-size: 17px;font-weight: 700;" class="w-24 sm:w-40 truncate sm:whitespace-normal font-large text-lg"><?php echo $nome;?></div>
