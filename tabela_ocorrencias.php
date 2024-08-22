@@ -86,7 +86,7 @@ if(!isset ($_SESSION['logado'])){
                     <div class="flex flex-col lg:flex-row border-b border-gray-200 dark:border-dark-5 pb-5 -mx-5">
                         <div class="flex flex-1 px-5 items-center justify-center lg:justify-start">
                             <div class="w-20 h-20 sm:w-24 sm:h-24 flex-none lg:w-32 lg:h-32 image-fit relative">
-                            <img class="rounded-full" src="https://cef4.com.br/0xasljkdfhsjkfhssdfsfsfasfewrqwr/<?php echo $_SESSION['codigo'];?>.JPG" >
+                            <img class="rounded-full" src="https://admbv.com.br/Fotos/<?php echo $_SESSION['codigo'];?>.JPG" >
                                 <div class="absolute mb-1 mr-1 flex items-center justify-center bottom-0 right-0 bg-theme-1 rounded-full p-2"> <i class="w-4 h-4 text-white" data-feather="camera"></i> </div>
                             </div>
                             <div class="ml-5">
