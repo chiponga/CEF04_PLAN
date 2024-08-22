@@ -87,7 +87,7 @@ if(!isset ($_SESSION['logado_p'])){
                         <div class="flex flex-1 px-5 items-center justify-center lg:justify-start">
                             <div class="w-20 h-20 sm:w-24 sm:h-24 flex-none lg:w-32 lg:h-32 image-fit relative">
 
-								<img class="rounded-md intro-y" src="http://135.148.160.173/5s6d4f56sdf1s56a1f3s2f1s32af1s32df1s32df1ds561f/<?php echo $_SESSION['usuario'];?>.JPG" onerror="this.onerror=null; this.src='imagens/semFoto.png'">
+								<img class="rounded-md intro-y" src="https://admbv.com.br/Fotos/<?php echo $_SESSION['usuario'];?>.JPG" onerror="this.onerror=null; this.src='imagens/semFoto.png'">
                                                             </div>
                             <div class="ml-5">
                                 <div style="font-size: 17px;font-weight: 700;" class="w-24 sm:w-40 truncate sm:whitespace-normal font-large text-lg"><?php echo $nome;?></div>

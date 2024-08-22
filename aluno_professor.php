@@ -511,7 +511,7 @@
             <div class="intro-y box  " style="padding-top: 30px;">
                     <!-- BEGIN: Blog Layout -->
                     <div class="box rounded-md relative p-3  zoom-in" style="width: 300px;margin-left: auto;margin-right: auto;">
-					<img class="rounded-md intro-y" src="http://135.148.160.173/5s6d4f56sdf1s56a1f3s2f1s32af1s32df1s32df1ds561f/<?php echo $usuario;?>.JPG" onerror="this.onerror=null; this.src='imagens/semFoto.png'">
+					<img class="rounded-md intro-y" src="https://admbv.com.br/Fotos/<?php echo $usuario;?>.JPG" onerror="this.onerror=null; this.src='imagens/semFoto.png'">
 															
                     </div>
                     <h2 class="text-3xl text-center m-5 font-semibold text-base"><?php

@@ -95,7 +95,7 @@
                               
                               </td>
                               <td class="text-center">
-							  <img class="rounded-md intro-y" src="http://135.148.160.173/5s6d4f56sdf1s56a1f3s2f1s32af1s32df1s32df1ds561f/<?php echo $rows_cursos['Codigo'];?>.JPG" height="80px" width="80px" onerror="this.onerror=null; this.src='imagens/semFoto.png'">
+							  <img class="rounded-md intro-y" src="https://admbv.com.br/Fotos/<?php echo $rows_cursos['Codigo'];?>.JPG" height="80px" width="80px" onerror="this.onerror=null; this.src='imagens/semFoto.png'">
 
 							    </td>
                                 <td>
@@ -141,7 +141,7 @@
               
                             } 
                             ?>
-							<img src="http://135.148.160.173/5s6d4f56sdf1s56a1f3s2f1s32af1s32df1s32df1ds561f/<?php echo $codigo;?>.JPG" style="margin: 40px;margin-left:85px;margin-top:10px;text-aling:center" height="460px" width="400px" onerror="this.onerror=null; this.src='imagens/semFoto.png'">
+							<img src="https://admbv.com.br/Fotos/<?php echo $codigo;?>.JPG" style="margin: 40px;margin-left:85px;margin-top:10px;text-aling:center" height="460px" width="400px" onerror="this.onerror=null; this.src='imagens/semFoto.png'">
 
 
                             <?php
