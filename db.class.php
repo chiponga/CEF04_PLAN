@@ -1,10 +1,10 @@
 <?php
 class db {
     // Parâmetros de conexão
-    public $database = 'aluno';
-    public $host = '135.148.160.173';
-    public $usuario = 'ADJNET';
-    public $senha = 'Chi99839993';
+    public $database = 'railway';
+    public $host = '85788463.railway.internal';
+    public $usuario = 'root';
+    public $senha = 'zOSDfyNbJkAwWKtPQWkBaqXtvcIawmiJ';
     public $nome = 'CEFATIMA';
     public $porta = 3306;
 
